@@ -7,7 +7,7 @@ Since this is an open source project that I developed myself, there are still ma
 
 ## Steps To Contribute
 
-* Fork it ( https://github.com/natarizkie1/facevider )
+* Fork it ( https://github.com/natarizkie1/kuthai-tea )
 * Create your feature branch (`git checkout -b my-new-feature`)
 * Commit your changes (`git commit -m 'feat: add some new feature'`)
 * Push to the branch (`git push origin my-new-feature`)
